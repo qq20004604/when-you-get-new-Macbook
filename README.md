@@ -3,7 +3,7 @@
 
 ## 1、首先，你要装App
 
-https://pan.baidu.com/s/1Qe8hGIWUG_PMVTmfgs7QkA
+链接:https://pan.baidu.com/s/1xc7OK--bngGpEOl6iLBxTQ  密码:3v0z
 
 ## 2、安装多版本node
 
